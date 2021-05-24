@@ -21,8 +21,10 @@ without any external human supervision to keep the crowded environment more safe
 2. Esp32 MCU
 3. MLX90614 IR Temperature sensor 
 4. MAX30105 SpO2 sensor 
-5. Buzzer 
+5. Buzzer
 
-https://github.com/AdnanM7/Multifunctional-Automatic-Dispenser/issues/1#issue-899843158
+## FLOWCHART
+
+![Flowchart](https://user-images.githubusercontent.com/71844402/119382721-10791900-bce0-11eb-9289-0ca9ac5ffafa.jpg)
 
 
