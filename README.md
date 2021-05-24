@@ -23,6 +23,6 @@ without any external human supervision to keep the crowded environment more safe
 4. MAX30105 SpO2 sensor 
 5. Buzzer 
 
-!(FlowChart)(
+https://github.com/AdnanM7/Multifunctional-Automatic-Dispenser/issues/1#issue-899843158
 
 
