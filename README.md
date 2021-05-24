@@ -23,6 +23,11 @@ without any external human supervision to keep the crowded environment more safe
 4. MAX30105 SpO2 sensor 
 5. Buzzer
 
+## Software Requirements:
+1. Arduino IDE
+2. Fritzing
+3. ESP IDF 
+
 ## FLOWCHART
 
 ![Flowchart](https://user-images.githubusercontent.com/71844402/119382721-10791900-bce0-11eb-9289-0ca9ac5ffafa.jpg)
