@@ -22,6 +22,7 @@ without any external human supervision to keep the crowded environment more safe
 3. MLX90614 IR Temperature sensor 
 4. MAX30105 SpO2 sensor 
 5. Buzzer
+![SpO2 and Temperature mesuring Device](https://user-images.githubusercontent.com/71844402/119705854-e312a380-be76-11eb-8bec-0a9605df515d.jpg)
 
 ## Software Requirements:
 1. Arduino IDE
