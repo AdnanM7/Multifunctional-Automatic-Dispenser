@@ -1,6 +1,6 @@
 # Multifunctional-Automatic-Dispenser
 An automatic hand sanitizer dispenser with functionalities of spo2 and body temperature monitoring which will help in calculating two of the most important covid-19 symptoms 
-1.oxygem levels 
+1. oxygen levels 
 2. body temperature 
 without any external human supervision to keep the crowded environment more safe.
 
